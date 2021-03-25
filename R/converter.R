@@ -6,7 +6,7 @@
 #' @param a number type double
 #'
 #' @return percentage of argument 'a'
-#' @export (converter)
+#' @export converter
 #'
 #' @examples
 #' converter(dnorm(0.3))
